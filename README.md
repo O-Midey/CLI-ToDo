@@ -67,9 +67,6 @@ Here's an example of how to use the application:
 
 5. Exit the application when you're done by replying with "exit."
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -77,8 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Author
 
-[Your Name]
+Omotosho Ayomide
 
----
-
-Feel free to replace `[Your Name]` in the Author section with your name or organization. You can also customize the README further as needed for your specific project.
